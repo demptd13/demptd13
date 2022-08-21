@@ -1,4 +1,5 @@
-![large](https://user-images.githubusercontent.com/103131906/174868824-83b4045a-caa7-4c04-afe8-e77e079e9412.svg)
+[![codewars](https://www.codewars.com/users/demptd13/badges/large)](https://www.codewars.com/users/demptd13)
+
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="max-width: 100%;">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="max-width: 100%;">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="35" style="max-width: 100%;">
