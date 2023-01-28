@@ -8,7 +8,7 @@
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="typescript" width="30" height="35" style="max-width: 100%;">
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="react" width="30" height="35" style="max-width: 100%;">
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" alt="next js" width="30" height="35" style="max-width: 100%;">
-<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" alt="redux" width="30" height="35" style="max-width: 100%;">
+<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" alt="redux" width="50" height="35" style="max-width: 100%;">
 
 
 
