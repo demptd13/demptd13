@@ -20,7 +20,6 @@
 
 <!-- ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=demptd13) -->
 
-
 ### 💡 Codewars profile
 
 [![codewars](https://www.codewars.com/users/demptd13/badges/large)](https://www.codewars.com/users/demptd13)
