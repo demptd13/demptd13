@@ -17,8 +17,6 @@
 
 [![codewars](https://www.codewars.com/users/demptd13/badges/large)](https://www.codewars.com/users/demptd13)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=demptd13&hide=css)](https://github.com/demptd13/github-readme-stats)
-
 
 
 
