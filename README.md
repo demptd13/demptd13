@@ -15,7 +15,7 @@
 
 ### ⚡ Statistics
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=demptd13&exclude_repo=github-readme-stats,https://github.com/demptd13/anow.git, https://github.com/demptd13/avtr.git, https://github.com/demptd13/e-shop.git, https://github.com/demptd13/sea-food.git](https://github.com/demptd13/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=demptd13&exclude_repo=github-readme-stats,anow.git, avtr.git, e-shop.git, sea-food.git](https://github.com/demptd13/github-readme-stats)
 
 ### 💡 Codewars profile
 
