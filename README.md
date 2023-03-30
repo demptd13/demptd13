@@ -13,10 +13,6 @@
 <br>
 <br>
 
-### ⚡ Statistics
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=demptd13)](https://github.com/demptd13/github-readme-stats)
-
 ### 💡 Codewars profile
 
 [![codewars](https://www.codewars.com/users/demptd13/badges/large)](https://www.codewars.com/users/demptd13)
