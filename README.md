@@ -15,7 +15,7 @@
 
 ### ⚡ Statistics
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=demptd13&langs_count=8)](https://github.com/demptd13/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=demptd13&exclude_repo=github-readme-stats,https://github.com/demptd13/dublin-kyiv-time.git)](https://github.com/demptd13/github-readme-stats)
 
 ### 💡 Codewars profile
 
