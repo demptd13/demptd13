@@ -10,6 +10,13 @@
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" alt="redux" width="55" height="40" style="max-width: 100%;" />
 <img align="left" src="https://www.gstatic.com/devrel-devsite/prod/v80bae38ba58d74b96b4842131d88ee335fbea404678aa063008110db834e2268/firebase/images/lockup.svg" alt="firebase" width="90" height="50" style="max-width: 100%;" />
 
+### ⚡ Statistics
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oleksandr073&layout=compact)](https://github.com/Oleksandr073/github-readme-stats) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oleksandr073)
+
+<!-- ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Oleksandr073) -->
+
 <br>
 
 ### 💡 Codewars profile
