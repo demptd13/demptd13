@@ -15,10 +15,7 @@
 
 ### ⚡ Statistics
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=demptd13&layout=compact)](https://github.com/demptd13/github-readme-stats) -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=demptd13)
-
-<!-- ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=demptd13) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=demptd13&hide_progress=true)](https://github.com/demptd13/github-readme-stats)
 
 ### 💡 Codewars profile
 
