@@ -20,7 +20,6 @@
 
 <!-- ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Oleksandr073) -->
 
-<br>
 
 ### 💡 Codewars profile
 
