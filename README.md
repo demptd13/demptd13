@@ -17,10 +17,3 @@
 
 [![codewars](https://www.codewars.com/users/demptd13/badges/large)](https://www.codewars.com/users/demptd13)
 
-
-<details>
-  <summary>:zap: Statistic</summary>
-   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=demptd13&langs_count=8&layout=compact" />
-    <br />
-    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=demptd13&show_icons=true" />
-</details>
