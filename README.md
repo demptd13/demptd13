@@ -20,4 +20,4 @@
 ### 💡 Codewars profile
 [![codewars](https://www.codewars.com/users/demptd13/badges/large)](https://www.codewars.com/users/demptd13)
 
-![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/demptd13/github-stats/master/generated/overview.svg#gh-dark-mode-only)
