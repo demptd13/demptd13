@@ -14,7 +14,11 @@
   <img src="https://www.gstatic.com/devrel-devsite/prod/v80bae38ba58d74b96b4842131d88ee335fbea404678aa063008110db834e2268/firebase/images/lockup.svg" alt="firebase" width="85" height="40" />&nbsp;
 </div>
 
-<br>
-
 ### 💡 Codewars profile
 [![codewars](https://www.codewars.com/users/demptd13/badges/large)](https://www.codewars.com/users/demptd13)
+
+![](https://raw.githubusercontent.com/demptd13/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/demptd13/github-stats/master/generated/overview.svg#gh-light-mode-only)
+
+![](https://raw.githubusercontent.com/demptd13/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/demptd13/github-stats/master/generated/languages.svg#gh-light-mode-only)
