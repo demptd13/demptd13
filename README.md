@@ -23,3 +23,6 @@
 <img src="https://github.com/demptd13/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
 </a>
 </div>
+
+### 💻 Interesting Contributions
+[![ClerkJS](https://github-readme-stats.vercel.app/api/pin/?username=clerkinc&repo=javascript&theme=dark&show_owner=true)](https://github.com/clerkinc/javascript/pull/1559)
