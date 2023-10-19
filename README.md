@@ -18,12 +18,10 @@
 [![codewars](https://www.codewars.com/users/demptd13/badges/large)](https://www.codewars.com/users/demptd13)
 
 <div align="left">
-<a href="https://github.com/demptd13/github-stats">
 <img src="https://github.com/demptd13/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
 <img src="https://github.com/demptd13/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
-</a>
 </div>
 
 ### 💻 Interesting Contributions
 [![ClerkJS](https://github-readme-stats.vercel.app/api/pin/?username=clerkinc&repo=javascript&theme=dark&show_owner=true)](https://github.com/clerkinc/javascript/pull/1559)
-[![ClerkJS](https://github-readme-stats.vercel.app/api/pin/?username=aiji42&repo=zod-i18n&theme=dark&show_owner=true)](https://github.com/aiji42/zod-i18n/pull/160)
+[![zod-18n](https://github-readme-stats.vercel.app/api/pin/?username=aiji42&repo=zod-i18n&theme=dark&show_owner=true)](https://github.com/aiji42/zod-i18n/pull/160)
