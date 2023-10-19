@@ -17,7 +17,7 @@
 ### 💡 Codewars profile:
 [![codewars](https://www.codewars.com/users/demptd13/badges/large)](https://www.codewars.com/users/demptd13)
 
-### 💡 GitHub Stats:
+### 📊 GitHub Stats:
 <div align="left">
 <a href="https://github.com/demptd13/github-stats">
 <img src="https://github.com/demptd13/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
