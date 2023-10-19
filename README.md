@@ -18,8 +18,10 @@
 [![codewars](https://www.codewars.com/users/demptd13/badges/large)](https://www.codewars.com/users/demptd13)
 
 <div align="left">
+<a href="https://github.com/demptd13/github-stats">
 <img src="https://github.com/demptd13/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
 <img src="https://github.com/demptd13/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+</a>
 </div>
 
 ### 💻 Interesting Contributions
