@@ -27,7 +27,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=demptd13&show_icons=true&theme=radical)
 
 ### 📊 WakaTime Stats:
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=demptd13)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@demptd13)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 💻 Interesting Contributions:
 [![ClerkJS](https://github-readme-stats.vercel.app/api/pin/?username=clerkinc&repo=javascript&theme=dark&show_owner=true)](https://github.com/clerkinc/javascript/pull/1558)
