@@ -31,4 +31,4 @@
 [![zod-18n](https://github-readme-stats.vercel.app/api/pin/?username=aiji42&repo=zod-i18n&theme=dark&show_owner=true)](https://github.com/aiji42/zod-i18n/pull/160)
 
 ### ⏲ WakaTime Stats:
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@demptd13)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@demptd13)](https://wakatime.com/@demptd13)
