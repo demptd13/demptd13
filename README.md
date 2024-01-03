@@ -16,6 +16,6 @@
 [![codewars](https://www.codewars.com/users/demptd13/badges/large)](https://www.codewars.com/users/demptd13)
 
 ### ⏲ WakaTime Stats:
-<img src="https://wakatime.com/badge/user/19f935e0-cdac-4cc6-895c-ad9edc9322b5.svg" alt="waka time" width="310" height="33" />
+<img src="https://wakatime.com/badge/user/19f935e0-cdac-4cc6-895c-ad9edc9322b5.svg" alt="waka time" width="300" height="32" />
 
 
