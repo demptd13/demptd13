@@ -6,7 +6,7 @@
 </a>
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats-woad-mu.vercel.app/api?username=demptd13&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats-pink-ten-17.vercel.app/api?username=demptd13&show_icons=true&theme=radical)
 
 ### 💻 Interesting Contributions:
 [![ClerkJS](https://github-readme-stats.vercel.app/api/pin/?username=clerkinc&repo=javascript&theme=dark&show_owner=true)](https://github.com/clerkinc/javascript/pull/1558)
