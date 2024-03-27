@@ -15,7 +15,7 @@
 
 ### ⏲ WakaTime Stats:
 <a href="https://wakatime.com/@demptd13">
-  <img src="https://wakatime.com/badge/user/19f935e0-cdac-4cc6-895c-ad9edc9322b5.svg" alt="waka time" width="290" height="32" />
+  <img src="https://wakatime.com/badge/user/19f935e0-cdac-4cc6-895c-ad9edc9322b5.svg" alt="waka time" width="210" height="32" />
 </a>
 
 
